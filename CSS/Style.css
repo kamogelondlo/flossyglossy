@@ -1,0 +1,38 @@
+
+h1{
+  color:red;
+  font-size: 3em;
+  border: 3px dotted;
+  padding: 15px;
+  }
+
+ body{
+   background-color: maroon;
+ }
+ ul{
+   background-color: green;
+   }
+ol{
+  background-color: green;
+  }
+
+img{
+  border:10px red dotted;
+  width:150px;
+  height:150px;
+  transition: 0.1s ease;
+  }
+
+  li:hover{
+    font-size: 40px;
+    text-decoration: underline;
+  }
+
+  img:hover{
+    height: 150px;
+    width: 150px;
+  }
+
+  li{
+    transition: 0.3s ease;
+  }
